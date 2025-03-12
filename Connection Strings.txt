@@ -1,0 +1,5 @@
+Local Connection String EE 
+Data Source=LAPTOP-UCI7OCSV;Initial Catalog=EEDB;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False
+
+Live Connection String EE
+Server=tcp:pteeserver.database.windows.net,1433;Initial Catalog=EEDB;Persist Security Info=False;User ID=ST10191639;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;

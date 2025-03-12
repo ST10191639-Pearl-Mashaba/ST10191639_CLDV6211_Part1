@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=LAPTOP-UCI7OCSV;Initial Catalog=EEDB;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -ContextDir Data -Context EEDBContext -Force

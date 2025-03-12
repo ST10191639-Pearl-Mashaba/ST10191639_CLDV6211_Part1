@@ -18,26 +18,28 @@ EventId INT IDENTITY(1,1) PRIMARY KEY NOT NULL, --index so number always
 EventName VARCHAR(50) NOT NULL, 
 EventDate DATE NOT NULL,
 [Description] VARCHAR(150) NOT NULL,
-VenueId INT FOREIGN KEY REFERENCES Venue(VenueId)
+VenueId INT FOREIGN KEY REFERENCES Venue(VenueId) NOT NULL,
 );
 
 CREATE TABLE Booking (
 BookingId INT IDENTITY(1,1) PRIMARY KEY NOT NULL, --index so number always
-EventID INT FOREIGN KEY REFERENCES [Event](EventID) NOT NULL, -- varchar = string
-VenueID INT FOREIGN KEY REFERENCES Venue(VenueID) NOT NULL, --the blue highlight means that name is used as a function word so slap some square brackets on em
+EventId INT FOREIGN KEY REFERENCES [Event](EventId) NOT NULL, -- varchar = string
+VenueId INT FOREIGN KEY REFERENCES Venue(VenueId) NOT NULL, --the blue highlight means that name is used as a function word so slap some square brackets on em
 BookingDate DATE NOT NULL
 );
 
-
 --TABLE INSERTION SECTION, insert data into tables.
-Insert into Venue (VenueName, [Location])
-VALUES('Waterfall', 'Denver')
+Insert into Venue (VenueName, [Location], Capacity, ImageURL)
+VALUES('Waterfall', 'Denver', 5,'www.cat.png' ),
+	('Rainbow Desserts', 'New York City', 10,'www.dog.png' )
 
-Insert into [Event] (EventName,[Description])
-VALUES('Pearl', 'Mashaba')
+Insert into [Event] (EventName,EventDate, [Description], VenueID)
+VALUES('Big Birthday Bash', '2025-03-18', 'Celebrating birthday for Client X', 1),
+	('Sweet Sixteen Birthday Party', '2025-04-15', 'Celebrating birthday for Client Y', 2)
 
-Insert into Booking (EventID, VenueID)
-Values (1,1)
+Insert into Booking (EventID, VenueID, BookingDate)
+Values (1,1, '2025-03-18'),
+	(2,2, '2025-03-18')
 
 --TABLE ALTERATION SECTION (can be between creation insertion or insertion, manipulation) your databases at the moment aren't used by anyone, the minute you add them in and stuff, 
 --people start using it and now you cant delete it so now you have to alter post table creation
