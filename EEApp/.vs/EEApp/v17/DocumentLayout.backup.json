@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25B13151-4F77-4D3F-8F8D-AFA9FB56CFDF}|EEApp.csproj|c:\\users\\pearl\\documents\\school\\year 3 sem 1\\cldv6211\\2025\\st10191639_cldv6211_part1\\eeapp\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B13151-4F77-4D3F-8F8D-AFA9FB56CFDF}|EEApp.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B13151-4F77-4D3F-8F8D-AFA9FB56CFDF}|EEApp.csproj|c:\\users\\pearl\\documents\\school\\year 3 sem 1\\cldv6211\\2025\\st10191639_cldv6211_part1\\eeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B13151-4F77-4D3F-8F8D-AFA9FB56CFDF}|EEApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B13151-4F77-4D3F-8F8D-AFA9FB56CFDF}|EEApp.csproj|c:\\users\\pearl\\documents\\school\\year 3 sem 1\\cldv6211\\2025\\st10191639_cldv6211_part1\\eeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25B13151-4F77-4D3F-8F8D-AFA9FB56CFDF}|EEApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\Data\\EEDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\EEDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B13151-4F77-4D3F-8F8D-AFA9FB56CFDF}|EEApp.csproj|c:\\users\\pearl\\documents\\school\\year 3 sem 1\\cldv6211\\2025\\st10191639_cldv6211_part1\\eeapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B13151-4F77-4D3F-8F8D-AFA9FB56CFDF}|EEApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B13151-4F77-4D3F-8F8D-AFA9FB56CFDF}|EEApp.csproj|c:\\users\\pearl\\documents\\school\\year 3 sem 1\\cldv6211\\2025\\st10191639_cldv6211_part1\\eeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B13151-4F77-4D3F-8F8D-AFA9FB56CFDF}|EEApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T09:31:45.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\Models\\Venue.cs",
+              "RelativeToolTip": "Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:31:17.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EEDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\Data\\EEDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\EEDBContext.cs",
+              "ToolTip": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\Data\\EEDBContext.cs",
+              "RelativeToolTip": "Data\\EEDBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:14:50.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:14:37.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T09:14:43.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ST10191639_CLDV6211_Part1\\EEApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T09:24:21.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
