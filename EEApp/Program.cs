@@ -12,6 +12,9 @@ namespace EEApp
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            // Source: Stack Overflow - "Config connection string in .NET Core 6"
+            // https://stackoverflow.com/questions/68980778/config-connection-string-in-net-core-6
+            // Answer by user: George Piano Manikas (https://stackoverflow.com/users/10210281/george-piano-manikas)
             builder.Services.AddDbContext<EEDBContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("LiveConn")));
 
